@@ -1,23 +1,47 @@
-Hướng dẫn chạy sản phẩm
------------------------
+# 🛒 HelloShop – E-commerce Website
 
-1. Cách chạy
-- Clone hoặc tải mã nguồn về.
-- Mở thư mục: Web-HelloShop
-- Mở file index.html bằng tiện ích Live Server (VS Code).
+## 📌 Description
+HelloShop is a simple e-commerce web application built using HTML, CSS, and JavaScript.  
+The application allows users to browse products, register/login, and manage shopping activities using LocalStorage.
 
-2. Ghi chú
-- Sản phẩm không sử dụng backend, toàn bộ dữ liệu xử lý trên frontend (LocalStorage).
+---
 
-3. Tài khoản mẫu
+## 🚀 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- LocalStorage (for client-side data management)
 
-* Tài khoản Admin:
-  - Email: admin@gmail.com
-  - Mật khẩu: admin
+---
 
-* Tài khoản Người dùng (demo):
-  - Email: hello@gmail.com
-  - Mật khẩu: helloshop
+## ✨ Features
 
-4. Đăng ký
-- Người dùng có thể tự đăng ký tài khoản mới trực tiếp trên giao diện website.
+### 👤 User Features
+- Register a new account
+- Login / Logout
+- Browse products
+- Add products to cart
+
+### 🔑 Admin Features
+- Manage products (basic demo)
+- Access admin dashboard
+
+---
+
+## 🔐 Demo Accounts
+
+### Admin Account
+- Email: `admin@gmail.com`
+- Password: `admin`
+
+### User Account
+- Email: `hello@gmail.com`
+- Password: `helloshop`
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/hello-shop.git
