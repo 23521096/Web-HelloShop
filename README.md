@@ -3,7 +3,7 @@ Hướng dẫn chạy sản phẩm
 
 1. Cách chạy
 - Clone hoặc tải mã nguồn về.
-- Mở thư mục: IE104---Web-HelloShop
+- Mở thư mục: Web-HelloShop
 - Mở file index.html bằng tiện ích Live Server (VS Code).
 
 2. Ghi chú
